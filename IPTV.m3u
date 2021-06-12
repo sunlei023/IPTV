@@ -75,6 +75,11 @@ http://117.169.120.160:8080/live/cctv-14/1.m3u8
 http://117.169.120.140:8080/live/cctv-15/.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="央视",CCTV-15 音乐 备用
 http://117.169.120.160:8080/live/cctv-15/1.m3u8
+
+
+#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴公共频道
@@ -87,6 +92,34 @@ http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
 http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="75" tvg-name="CHC高清电影" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/CHC高清电影.jpg" group-title="电影",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="CHC家庭影院" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/CHC家庭影院.jpg" group-title="电影",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+#EXTINF:-1 tvg-id="296" tvg-name="台视" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/台视.png" group-title="台湾",台视
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="296" tvg-name="东森新闻台" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/EBCNews.png" group-title="台湾",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8#EXTINF:-1 tvg-id="296" tvg-name="东森新闻台" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/EBCNews.png" group-title="台湾",东森新闻台
+
+
+#EXTINF:-1 tvg-id="457" tvg-name="CGTNDocumentary" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/CGTNDoc.png" group-title="海外",CGTN 纪录(英)
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",日本l全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",日本QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",日本新闻24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江经济生活
