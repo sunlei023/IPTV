@@ -3,93 +3,83 @@
 http://cd-live-stream.news.cctvplus.com/live/CHANNEL2.smil/chunklist_w1123571901_b1000000.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
 http://117.169.120.140:8080/live/cctv-1/.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合 备用
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="央视",CCTV-1 综合
 http://117.169.120.160:8080/live/cctv-1/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
 http://117.169.120.140:8080/live/cctv-2/.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经 备用
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="央视",CCTV-2 财经
 http://117.169.120.160:8080/live/cctv-2/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV-3 综艺
 http://117.169.120.140:8080/live/cctv-3/.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV-3 综艺 备用
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="央视",CCTV-3 综艺
 http://117.169.120.160:8080/live/cctv-3/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际
 http://117.169.120.140:8080/live/cctv-4/.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际 备用
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="央视",CCTV-4 中文国际
 http://117.169.120.160:8080/live/cctv-4/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV-5 体育
 http://117.169.120.140:8080/live/cctv-5/.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV-5 体育 备用
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="央视",CCTV-5 体育
 http://117.169.120.160:8080/live/cctv-5/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+ 体育赛事
 http://117.169.120.140:8080/live/cctv-5/.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6 电影
 http://117.169.120.140:8080/live/cctv-6/.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6 电影 备用
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6 电影
 http://117.169.120.160:8080/live/cctv-6/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="央视",CCTV-6 电影 低清
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2_hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7 国防军事
 http://117.169.120.140:8080/live/cctv-7/.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7 国防军事 备用
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="央视",CCTV-7 国防军事
 http://117.169.120.160:8080/live/cctv-7/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8 电视剧
 http://117.169.120.140:8080/live/cctv-8/.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8 电视剧 备用
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8 电视剧
 http://117.169.120.160:8080/live/cctv-8/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="央视",CCTV-8 电视剧 低清
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2_hd.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="央视",CCTV-9 纪录
 http://117.169.120.140:8080/live/cctv-9/.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="央视",CCTV-9 纪录 备用
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="央视",CCTV-9 纪录
 http://117.169.120.160:8080/live/cctv-9/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视",CCTV-10 科教
 http://117.169.120.140:8080/live/cctv-10/.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视",CCTV-10 科教 备用
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视",CCTV-10 科教
 http://117.169.120.160:8080/live/cctv-10/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="央视",CCTV-10 科教 低清
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2_hd.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视",CCTV-11 戏曲
 http://117.169.120.140:8080/live/cctv-11/.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视",CCTV-11 戏曲 备用
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视",CCTV-11 戏曲
 http://117.169.120.160:8080/live/cctv-11/1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="央视",CCTV-11 戏曲 低清
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv11_2_hd.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="央视",CCTV-12 社会与法制
 http://117.169.120.140:8080/live/cctv-12/.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="央视",CCTV-12 社会与法制 备用
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="央视",CCTV-12 社会与法制
 http://117.169.120.160:8080/live/cctv-12/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="央视",CCTV-12 社会与法制 低清
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv12_2_hd.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="央视",CCTV-13 新闻
 http://117.169.120.140:8080/live/cctv-13/.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="央视",CCTV-13 新闻 备用
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="央视",CCTV-13 新闻
 http://117.169.120.160:8080/live/cctv-13/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="央视",CCTV-13 新闻 低清
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2_hd.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="央视",CCTV-14 少儿
 http://117.169.120.140:8080/live/cctv-14/.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="央视",CCTV-14 少儿 备用
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="央视",CCTV-14 少儿
 http://117.169.120.160:8080/live/cctv-14/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="央视",CCTV-15 音乐
 http://117.169.120.140:8080/live/cctv-15/.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="央视",CCTV-15 音乐 备用
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="央视",CCTV-15 音乐
 http://117.169.120.160:8080/live/cctv-15/1.m3u8
 
 
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴新闻综合
-http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴公共频道
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴文化影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴新闻广播FM33.6
-http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴交通频率FM94.1
-http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 
@@ -100,14 +90,21 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="CHC家庭影院" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/CHC家庭影院.jpg" group-title="电影",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
-#EXTINF:-1 tvg-id="296" tvg-name="台视" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/台视.png" group-title="台湾",台视
+#EXTINF:-1 tvg-id="245" tvg-name="hks" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/hks.png" group-title="香港",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="265" tvg-name="台视" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/台视.png" group-title="台湾",台视
 http://seb.sason.top/sc/tsxw_fhd.m3u8
+
 #EXTINF:-1 tvg-id="296" tvg-name="东森新闻台" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/EBCNews.png" group-title="台湾",东森新闻台
-http://seb.sason.top/sc/dsxw_fhd.m3u8#EXTINF:-1 tvg-id="296" tvg-name="东森新闻台" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/EBCNews.png" group-title="台湾",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8#
 
 
 #EXTINF:-1 tvg-id="457" tvg-name="CGTNDocumentary" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/CGTNDoc.png" group-title="海外",CGTN 纪录(英)
 https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 tvg-id="457" tvg-name="CGTNDocumentary" tvg-logo="https://sunlei023.github.io/IPTV/tvg-logo/CGTNDoc.png" group-title="海外",CGTN 纪录(英)
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",日本l全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
